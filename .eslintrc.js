@@ -1,5 +1,6 @@
 module.exports =
 {
+    /** 
     env:
     {
         browser: true,
@@ -232,5 +233,5 @@ module.exports =
             assignment: false,
             return: true
         }]
-    }
+    }*/
 };
